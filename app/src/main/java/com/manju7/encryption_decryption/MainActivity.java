@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     TextView encry , decry;
     Button buttonEn , buttonDe;
     String outputEn ;
-    String ASE="AES/ECB/PKCS5PADDING";
+    String ASE="AES";
 
 
     @Override
